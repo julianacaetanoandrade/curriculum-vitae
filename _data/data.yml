@@ -7,80 +7,67 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Eduardo Messias
+    tagline: Software engineer / Game developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: eduardo.messias@outlook.com
+    phone: +356 7715 0501
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: eduardo-messias
+    github: eduardomessias
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@messias_twr'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Portuguese
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Fluent
 
       - idiom: Spanish
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Musics
         link:
 
-      - item: Snowboarding
+      - item: Movies
         link:
 
-      - item: Cooking
+      - item: Programming
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I am a developer since 2008, i work in the corporative business of ERP systems implementation.
+      My routine is to move from one project to another installing, configuring, customizing and integrating
+      this software in the companies. Besides my job, 
+      i am a multiplatform mobile app development enthusiast and academically speaking 
+      i make part of the game developers society and hopefully i'll soon have my master degree in this area.
 
-      Second paragraph if required.
+      I am passionate about technology, and much more when it comes to open-source technologies.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Digital games development
+      university: Methodist University of São Paulo
+      time: 2016 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - Creative capacity in order to design innovative solutions, using the domain of techniques and creation processes;
+        - Own language's domain capacity, to express solutions and concepts, in my own projects, in accordance with the diverse techniques of visual expression and reproduction;
+        - Interdisciplinar transit capacity, to interact with other areas specialists in a way of use diverse knowledges and act in multidisciplinar teams for the ellaboration, research execution and projects;
+        - Systemic vision of project, to manifest the capacity of give them the right concept from the most appropiate mix of in/materials components, manufacturing processes, financial aspects, psichologic and sociologic of the product;
+        - Domain of the different steps of the project development, to be known: objectives definition, collect techniques and data treatment, alternatives generation and evaluation, solutions setup and results' comunication;
+        - Knowledge related to the productive sector in my specialization, to reveal a solid setorial vision, in compliance with the market, materials, productive processes and technologies covering the society's cultural lines, softwares and other regional manifestations;
+        - Production management domain, incluing quality, productivity, fabric physical arragement, inventory, costs and investments, besides the human resources administration for production;
+        - Prospective and historical vision, focused in the social, financial and culturais aspects, revealing conscisness of the economic impact, besides the social, antropological, environmental, visual and ethical of my activities;
 
 experiences:
     - role: Lead Developer
