@@ -1,15 +1,8 @@
 <script>
 	function download() {
-		let pdf = new jsPDF('p', 'pt', 'letter');
+		let pdf = new jsPDF();
 	  
-		pdf.html(document.getElementById('html'), {
-			callback: function (pdf) {
-				let iframe = document.createElement('iframe');
-				iframe.setAttribute('style', 'position:absolute;right:0; top:0; bottom:0; height:100%; width:500px');
-				
-				document.body.appendChild(iframe);
-				iframe.src = pdf.output('datauristring');
-			}
-		});
+		pdf.html(document.getElementById('html'));
+		pdf.save('Eduardo Messias.pdf');
   	}
 </script>
