@@ -82,18 +82,21 @@ experiences:
           - Data entities creation, setup and testing for integrations
           - Technical design documentation and test plans writing
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Multiplatform technical lead
+      time: 2017 - 2018
+      company: Capgemini, São Paulo
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Technical lead in multiplatform systems area, 
+        solutions archtect for critical operations of a global company in the restaurant business. 
+        Development of the POS, delivery system, 
+        self service totems using xml-rpc technology in the integration between the diferent applications and tools. 
+        Build-packages generation, setup script, 
+        auto-installation and large-scale deploy and rollout of the system features. 
 
-          - Bullet point
-          - Bullet point
+          - Development using JavaScript, .Net, Java and XML-RPC technologies
+          - Software packaging using Inno Setup
+          - Software distribution and installation using Microsoft SCCM
+          - Design of new functionalities. Setup and testing documentation writing
 
 projects:
     title: Projects
