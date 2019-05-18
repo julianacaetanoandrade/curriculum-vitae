@@ -122,6 +122,52 @@ experiences:
           - New functionalities development
           - Reports creation
           - POS support and extension
+          
+    - role: Senior software engineer
+      time: 2014
+      company: DotSoft, São Paulo
+      details: |
+        Implementation of ERP and CRM (MS Dynamics) in a large company in the field of refrigeration, 
+        development of integrations for the card schemes, 
+        fiscal printers, Pos and label printing via thermal printers. 
+        Support to development teams. Assistance in implementation of agile methodologies.  
+
+          - DotNet development for Web services
+          - Windows services and components for integration between Dynamics and fiscal printers
+          - POS development using ASP.NET and Bootstrap
+          - Development of eletronic payment method for Bank and Fiscal book applications
+          
+    - role: Software engineer
+      time: 2011 - 2014
+      company: Inove, São Paulo
+      details: |
+        Implementation and support of ERP and CRM, survey, 
+        design and development processes of integration between diverse technologies systems, 
+        coordination and support to the development team in accompanying technical budget, 
+        appointment of hours, technical documentation, development methodologies.  
+
+          - Integrations development using DotNet framework
+          - Customizations, maintaining and support for new features in Microsoft Dynamics ERP and CRM
+          - SSRS reports creation for the Post-Sales team
+          - Web development using ASP.NET and Bootstrap
+          - Agile methodologies implementation
+          - Documentation templating
+          - Backlog coordinating        
+
+    - role: Software engineer
+      time: 2009 - 2011
+      company: Rhor S.A., São Paulo
+      details: |
+        Development of web tools and systems using ASP.NET. 
+        Responsible for the development of integrated and compose systems, 
+        and softwares at the following platforms: .NET, ASP.NET, VB.NET. 
+        Implementation and administration of databases using MySQL, SQL Server 2005/2008 and MongoDB.
+
+          - Web development using ASP.NET, Javascript and user interface frameworks
+          - MySQL and MongoDB database administration
+          - Agile development methodologies implementation
+          - Web development using DotNet
+          - Testing methodologies implementation
 
 projects:
     title: Projects
