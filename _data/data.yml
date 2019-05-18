@@ -97,6 +97,31 @@ experiences:
           - Software packaging using Inno Setup
           - Software distribution and installation using Microsoft SCCM
           - Design of new functionalities. Setup and testing documentation writing
+          
+    - role: Senior software engineer
+      time: 2015 - 2017
+      company: RGM, São Paulo
+      details: |
+        Development of integration between Microsoft Dynamics platform systems such as ERP and CRM, 
+        and other technologies such as Java, ASP.NET MVC, Xamarin. 
+        Deployment of agile methodologies, support for team development, 
+        architecture and planning software deployment. 
+
+          - Multiplatforms mobile app development using Xamarin integrated with Microsoft Dynamics 365
+          - Web application development for fiscal books delivery using Bootstrap, AngularJS and DotNet          
+          
+    - role: Senior software engineer
+      time: 2014 - 2015
+      company: Willdom, São Paulo
+      details: |
+        ERP and Pos system support of the network of multinational cosmetics company SEPHORA. 
+        Survey, development and customization of new features by the key user. 
+        Creation and maintenance of reports through Microsoft's reporting platform and tools such as Reporting Builder, 
+        Power BI and Visual Studio. 
+
+          - New functionalities development
+          - Reports creation
+          - POS support and extension
 
 projects:
     title: Projects
