@@ -76,15 +76,11 @@ experiences:
       details: |
         Senior programmer analyst responsible for development of solutions in Microsoft 365 platform, 
         such as 365 for Finance and Operations.
-        Process tests and documentation for new and customized features in the system.  
+        Process tests and documentation for new and customized features in the system.
 
-            - Projects
-                ERP implementation in a programme for a British public sector's organization. 
-
-            - Main activities
-                Microsoft Dynamics 365 for Finance and Operations extensions development.
-                Data entities creation, setup and testing for integrations.
-                Technical design documentation and test plans writing.
+            - Microsoft Dynamics 365 for Finance and Operations extensions development.
+            - Data entities creation, setup and testing for integrations.
+            - Technical design documentation and test plans writing.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
