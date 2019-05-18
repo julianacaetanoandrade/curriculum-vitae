@@ -72,18 +72,6 @@ education:
 experiences:
     - role: Senior programmer analyst
       time: 2018 – present
-      company: KPMG
-      details: |
-        Senior programmer analyst responsible for development of solutions in Microsoft 365 platform, 
-        such as 365 for Finance and Operations.
-        Process tests and documentation for new and customized features in the system.
-        
-            - Microsoft Dynamics 365 for Finance and Operations extensions development.
-            - Data entities creation, setup and testing for integrations.
-            - Technical design documentation and test plans writing.
-
-    - role: Senior programmer analyst
-      time: 2018 – present
       company: KPMG, Malta
       details: |
         Senior programmer analyst responsible for development of solutions in Microsoft 365 platform, 
