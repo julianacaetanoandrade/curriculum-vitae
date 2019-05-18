@@ -77,23 +77,22 @@ experiences:
         Senior programmer analyst responsible for development of solutions in Microsoft 365 platform, 
         such as 365 for Finance and Operations.
         Process tests and documentation for new and customized features in the system.
-
+        
             - Microsoft Dynamics 365 for Finance and Operations extensions development.
             - Data entities creation, setup and testing for integrations.
             - Technical design documentation and test plans writing.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior programmer analyst
+      time: 2018 – present
+      company: KPMG, Malta
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Senior programmer analyst responsible for development of solutions in Microsoft 365 platform, 
+        such as 365 for Finance and Operations.
+        Process tests and documentation for new and customized features in the system.
 
-          - Bullet point
-          - Bullet point
+          - Microsoft Dynamics 365 for Finance and Operations extensions development
+          - Data entities creation, setup and testing for integrations
+          - Technical design documentation and test plans writing
 
     - role: UI Developer
       time: 2012 - 2014
