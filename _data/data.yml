@@ -221,10 +221,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: DotNet Standard & DotNet Core
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Javascript & Javascript-based frameworks
         level: 98%
 
       - name: Angular
@@ -234,10 +234,19 @@ skills:
         level: 95%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 50%
 
-      - name: Sketch & Photoshop
+      - name: Unreal Engine & Unity 3D, PhaserJS & Construct
+        level: 70%
+        
+      - name: Mobile frameworks (Android, iOS, Xamarin & Apache Cordova)
+        level: 75%
+        
+      - name: SQL Server, MySQL, MongoDB & SQLite
         level: 60%
+        
+      - name: Microsoft Dynamics 365 ERP & CRM
+        level: 98%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
