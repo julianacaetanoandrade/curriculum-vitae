@@ -70,8 +70,24 @@ education:
         - Prospective and historical vision, focused in the social, financial and culturais aspects, revealing conscisness of the economic impact, besides the social, antropological, environmental, visual and ethical of my activities;
 
 experiences:
+    - role: Software engineer
+      time: 2019 – present
+      company: Smartbox, Dublin
+      details: |
+        Software engineer resposible for development and design of sofisticated integrations and extensions in the company's ERP, 
+        Microsoft Dynamics, dealing with large number of database requests through background services and api comunication coming from different systems using a wide range of technologies.
+        
+        Process tests and documentation for new and customized features in the system.
+
+          - Microsoft Dynamics AX 2012 development
+          - Data entities creation, setup and testing for integrations
+          - Technical design documentation and test plans writing
+          - Code refactoring process design
+          - Code review process design
+          - Automatic build process implementation using Azure DevOps
+
     - role: Senior programmer analyst
-      time: 2018 – present
+      time: 2018 – 2019
       company: KPMG, Malta
       details: |
         Senior programmer analyst responsible for development of solutions in Microsoft 365 platform, 
