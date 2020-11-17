@@ -231,31 +231,31 @@ skills:
 
     toolset:
       - name: DotNet Standard & DotNet Core
-        level: 98%
+        level: 90%
 
       - name: Javascript & Javascript-based frameworks
-        level: 98%
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Angular, React, Vue
+        level: 30%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 70%
 
       - name: Ruby on Rails
-        level: 50%
+        level: 10%
 
       - name: Unreal Engine & Unity 3D, PhaserJS & Construct
         level: 70%
         
       - name: Mobile frameworks (Android, iOS, Xamarin & Apache Cordova)
-        level: 75%
+        level: 70%
         
       - name: SQL Server, MySQL, MongoDB & SQLite
         level: 60%
         
       - name: Microsoft Dynamics 365 ERP & CRM
-        level: 98%
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
