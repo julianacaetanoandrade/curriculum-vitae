@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Curriculum vitae
-url: 'http://eduardomessias.github.io'
+url: 'http://julianacaetanoandrade.github.io'
 baseurl: '/curriculum-vitae' #change it according to your repository name
 description: A beautiful Jekyll theme for creating resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
