@@ -12,14 +12,14 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: eduardo.messias@outlook.com
-    phone: +356 7715 0501
-    website: eduardomessias.wordpress.com #do not add http://
-    linkedin: eduardo-messias
-    github: eduardomessias
+    email: ju.caetano.andrade@gmail.com
+    phone: +353 0834029347 
+    #website: eduardomessias.wordpress.com #do not add http://
+    linkedin: julianacaetanoandradeeoliveira
+    github: julianacaetanoandrade
     gitlab:
     bitbucket:
-    twitter: '@messias_twr'
+    #twitter: '@messias_twr'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -35,7 +35,7 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Musics
+      - item: Sports
         link:
 
       - item: Movies
@@ -47,13 +47,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I am a developer since 2008, i work in the corporative business of ERP systems implementation.
-      My routine is to move from one project to another installing, configuring, customizing and integrating
-      this software in the companies. Besides my job, 
-      i am a multiplatform mobile app development enthusiast and academically speaking 
-      i make part of the game developers society and hopefully i'll soon have my master degree in this area.
+      I am an I.T. Pro who works with systems analysis since 2010. I've been part of different teams in a global company, attending their needs in several projects, for some variety of businesses, such as the construction field, agribusiness and finance management.
+      
+      My daily work use to be following up the tasks of these projects, running meetings with the
+      development team, the key users, stakeholders and partners. I have also experience performing gap analyses, benchmark of products and partners, and writing functional and technical documentation.
+      
+      Lately, over past two year, I have learnt and worked as data analysis, by building report indicators statistics and dashboards using dedicated tools.
 
-      I am passionate about technology, and much more when it comes to open-source technologies.
 
 education:
     - degree: Digital games development
