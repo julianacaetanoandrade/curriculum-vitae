@@ -86,105 +86,45 @@ experiences:
         - Dealing with Channel Partners via emails answering questions or asking for support documentation.
         - Responsible for keeping an accurate business record through the company's CRM
    
-    - role: Senior programmer analyst
-      time: 2018 – 2019
-      company: KPMG, Malta
+    - role: Applications Administrator
+      time: 2019 – 2019
+      company: Malta Financial Services Authority, Malta
       details: |
-        Senior programmer analyst responsible for development of solutions in Microsoft 365 platform, 
-        such as 365 for Finance and Operations.
-        Process tests and documentation for new and customized features in the system.
+        Technologies: Jira, Confluence, SharePoint
 
-          - Microsoft Dynamics 365 for Finance and Operations extensions development
-          - Data entities creation, setup and testing for integrations
-          - Technical design documentation and test plans writing
 
-    - role: Multiplatform technical lead
-      time: 2017 - 2018
-      company: Capgemini, São Paulo
+        As an Applications administrator, I worked direct interaction with the technical team and designated business users
+
+          - Vendors benchmarking in order to acquire new internal tools, as well as the business process modelling and the gap-analysis documentation
+          - Writing functional requirements for the Case Management
+          - Manage tickets about issues and technical documentation
+
+    - role: Functional Analysts
+      time: 2016 - 2018
+      company: ATVOS, São Paulo
       details: |
-        Technical lead in multiplatform systems area, 
-        solutions archtect for critical operations of a global company in the restaurant business. 
-        Development of the POS, delivery system, 
-        self service totems using xml-rpc technology in the integration between the diferent applications and tools. 
-        Build-packages generation, setup script, 
-        auto-installation and large-scale deploy and rollout of the system features. 
+        Technologies: PIMS(Tovtos), Oracle: Endeca, EBS, Microsoft: Powerbi
 
-          - Development using JavaScript, .Net, Java and XML-RPC technologies
-          - Software packaging using Inno Setup
-          - Software distribution and installation using Microsoft SCCM
-          - Design of new functionalities. Setup and testing documentation writing
+        As a business analyst, I worked with technologies and tools directly linked to agribusiness. 
+
+          - Development and automation of strategic logistics indicators of sugar and ethanol, such as performance, production, product delivering Management and manipulation of synthetic and analytical data, including the creation of dashboards and charts through BI tools
+          - Benchmarking suppliers to acquire new internal tools, as well as business process modelling and gap analysis documentation. I also used to organize documentation and project launch meetings.
+          - Test new functionalities of the system.
           
-    - role: Senior software engineer
-      time: 2015 - 2017
-      company: RGM, São Paulo
-      details: |
-        Development of integration between Microsoft Dynamics platform systems such as ERP and CRM, 
-        and other technologies such as Java, ASP.NET MVC, Xamarin. 
-        Deployment of agile methodologies, support for team development, 
-        architecture and planning software deployment. 
-
-          - Multiplatforms mobile app development using Xamarin integrated with Microsoft Dynamics 365
-          - Web application development for fiscal books delivery using Bootstrap, AngularJS and DotNet          
           
-    - role: Senior software engineer
-      time: 2014 - 2015
-      company: Willdom, São Paulo
+    - role: Systems analyst
+      time: 2010 - 2016
+      company: Odebrecth, São Paulo
       details: |
-        ERP and Pos system support of the network of multinational cosmetics company SEPHORA. 
-        Survey, development and customization of new features by the key user. 
-        Creation and maintenance of reports through Microsoft's reporting platform and tools such as Reporting Builder, 
-        Power BI and Visual Studio. 
+        Technologies: Microsoft: Project, Excel, Oracle: XML Publisher, BI Publisher, APEX, EBS, HP: PPM, Languages: C, PL/SQL
 
-          - New functionalities development
-          - Reports creation
-          - POS support and extension
+        As a System analyst, I worked in different squads start in a development team and finished in a project team. 
+
+          - Assisting the project management team by planning, writing and maintaining the development processes, reporting results, and graphing statistical data
+          - Interaction and negotiation of resources with the executing areas, informing involved and responsible for the evolution, risks, and deviations of the deliverables
+          - EBS Oracle implementation project in Latin-American writing technical and functional documentation and development of administrative and financial systems (reports and forms). 
           
-    - role: Senior software engineer
-      time: 2014
-      company: DotSoft, São Paulo
-      details: |
-        Implementation of ERP and CRM (MS Dynamics) in a large company in the field of refrigeration, 
-        development of integrations for the card schemes, 
-        fiscal printers, Pos and label printing via thermal printers. 
-        Support to development teams. Assistance in implementation of agile methodologies.  
-
-          - DotNet development for Web services
-          - Windows services and components for integration between Dynamics and fiscal printers
-          - POS development using ASP.NET and Bootstrap
-          - Development of eletronic payment method for Bank and Fiscal book applications
-          
-    - role: Software engineer
-      time: 2011 - 2014
-      company: Inove, São Paulo
-      details: |
-        Implementation and support of ERP and CRM, survey, 
-        design and development processes of integration between diverse technologies systems, 
-        coordination and support to the development team in accompanying technical budget, 
-        appointment of hours, technical documentation, development methodologies.  
-
-          - Integrations development using DotNet framework
-          - Customizations, maintaining and support for new features in Microsoft Dynamics ERP and CRM
-          - SSRS reports creation for the Post-Sales team
-          - Web development using ASP.NET and Bootstrap
-          - Agile methodologies implementation
-          - Documentation templating
-          - Backlog coordinating        
-
-    - role: Software engineer
-      time: 2009 - 2011
-      company: Rhor S.A., São Paulo
-      details: |
-        Development of web tools and systems using ASP.NET. 
-        Responsible for the development of integrated and compose systems, 
-        and softwares at the following platforms: .NET, ASP.NET, VB.NET. 
-        Implementation and administration of databases using MySQL, SQL Server 2005/2008 and MongoDB.
-
-          - Web development using ASP.NET, Javascript and user interface frameworks
-          - MySQL and MongoDB database administration
-          - Agile development methodologies implementation
-          - Web development using DotNet
-          - Testing methodologies implementation
-
+    
 #projects:
 #    title: Projects
 #    intro: >
@@ -230,32 +170,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: DotNet Standard & DotNet Core
-        level: 90%
-
-      - name: Javascript & Javascript-based frameworks
-        level: 90%
-
-      - name: Angular, React, Vue
-        level: 30%
-
-      - name: HTML5 & CSS
-        level: 70%
-
-      - name: Ruby on Rails
-        level: 10%
-
-      - name: Unreal Engine & Unity 3D, PhaserJS & Construct
-        level: 70%
-        
-      - name: Mobile frameworks (Android, iOS, Xamarin & Apache Cordova)
-        level: 70%
-        
-      - name: SQL Server, MySQL, MongoDB & SQLite
+      - name: Python
         level: 60%
-        
-      - name: Microsoft Dynamics 365 ERP & CRM
-        level: 90%
+
+      - name: PL/SQL
+        level: 50%
+
+      - name: MS Project, Power Point, Excel
+        level: 70%
+
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
